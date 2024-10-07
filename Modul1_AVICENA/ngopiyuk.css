@@ -1,0 +1,15 @@
+img {
+    width: 10%;
+    height: auto;
+}
+
+.home-img {
+    width: 200%;
+    height: auto;
+}
+
+.ojek {
+    width: 50%;
+    height: auto;
+    align-items: center;
+}
